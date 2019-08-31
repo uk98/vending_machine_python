@@ -1,0 +1,1 @@
+Clear the ipython console of spyder before executing the program for a smooth user experience!
