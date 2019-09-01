@@ -2,7 +2,7 @@ import vm
 
 li=[]
 transaction,tot_a,opt = 0,0,'y'
-file1 = open("data.txt","a")
+file1 = open("data.txt","a+")
 vm.welcome()
 vm.menu()
 vm.options()

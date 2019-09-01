@@ -1,7 +1,0 @@
-﻿
-Receipt: 
-Items bought:3
-['Good Day Biscuit', 'Thumbs Up Can', 'Lays']
-Total Amount : 70
-Amount Paid : 120
-Refunded : 50
